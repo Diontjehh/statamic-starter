@@ -1,0 +1,7 @@
+title: 'Test component'
+fields:
+  -
+    handle: text_field
+    field:
+      type: text
+      display: 'Text Field'

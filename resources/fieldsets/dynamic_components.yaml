@@ -1,0 +1,16 @@
+title: 'Dynamic components'
+fields:
+  -
+    handle: dynamic_components
+    field:
+      type: replicator
+      display: 'Dynamic components'
+      sets:
+        dynamic_components:
+          display: 'Dynamische components'
+          sets:
+            test_component:
+              display: 'Test component'
+              fields:
+                -
+                  import: test_component
