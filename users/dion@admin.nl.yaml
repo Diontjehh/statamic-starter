@@ -1,6 +1,0 @@
-name: Dion
-super: true
-id: 8857f2e7-efa1-479c-954c-cde58333ea9a
-password_hash: $2y$12$P8W4aEidHJ53HqUjtO609OsifIPDIY/5e1JXyBjwWhc2HLxJOiN3K
-preferences:
-  theme: light
