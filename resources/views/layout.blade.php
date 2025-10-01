@@ -10,7 +10,7 @@
     <body>
         @nocache('partials.header')
 
-        <main>
+        <main class="h-screen">
             @yield('content')
         </main>
 
